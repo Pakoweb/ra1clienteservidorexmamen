@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         <h3 class="card-title">${producto.nombre}</h3>
         <p class="card-text">${producto.descripcion}</p>
         <h4 class="text-success">${producto.precio.toFixed(2)} €</h4>
+
         <button id="agregar" class="btn btn-success mt-3">Añadir al carrito</button>
       </div>
     </div>

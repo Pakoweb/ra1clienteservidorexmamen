@@ -52,6 +52,8 @@ cliente/
 
 📍 *Objetivo:* mostrar datos adicionales de la API en el frontend y aplicar estilos coherentes.
 
+
+
 ---
 
 ### 🔹 Ejercicio 3: Mostrar solo tres productos en la página de inicio
